@@ -1,0 +1,33 @@
+.product-item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #323f4b;
+    width: 20%;
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.name{
+    font-family: "Roboto",sans-serif;
+    font-weight: bold;
+    font-size: 1rem;
+    margin-bottom: 0px;
+}
+
+.quantity{
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.price{
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-top: 10px;
+}
